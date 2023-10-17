@@ -1,8 +1,8 @@
 # Sorting_Analyser
-Description
+Description: 
 This is a Sorting Visualizer project that demonstrates various sorting algorithms, including bubble sort, merge sort, quicksort, and more. The visualization is built using HTML, CSS, JavaScript, and Bootstrap for the user interface.
-Features
 
+Features: 
 Visual representation of sorting algorithms.
 Select from various sorting algorithms.
 Customize the array size and speed of visualization.
@@ -17,7 +17,7 @@ Open the project directory.
 cd sorting-visualizer
 Open index.html in your web browser.
 
-Usage
+Usage:
 Choose a sorting algorithm from the dropdown menu.
 Adjust the array size and visualization speed as needed.
 Click "Generate Array" to create a random array of elements.
